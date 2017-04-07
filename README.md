@@ -1,4 +1,4 @@
 # hello-word
  Hello people!
  
-  Klaus heer, I like Node.js and Php.
+  Klaus here, I like Node.js and Php.
